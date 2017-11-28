@@ -35,7 +35,8 @@
 @import url("http://fonts.googleapis.com/css?family=Montserrat:400,700");
 @import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700");
 @import url("https://fonts.googleapis.com/css?family=Raleway:400,200,600");
-@import url("https://fonts.googleapis.com/css?family=Pacifico");
+@import url("https://fonts.googleapis.com/css?family=Rock+Salt");
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 /*
 * http://meyerweb.com/eric/tools/css/reset/
 * v2.0 | 20110126
@@ -539,7 +540,7 @@ sup {
   margin-left: -10px;
   color: #FFFFFF;
   text-transform: none;
-  font-family: Pacifico, "Helvetica Neue", "Lucida Grande", Arial, Verdana, sans-serif;
+  font-family: 'Indie Flower', cursive;
 }
 
 .text-countdown {
