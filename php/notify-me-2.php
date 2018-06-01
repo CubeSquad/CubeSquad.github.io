@@ -6,7 +6,7 @@ header('content-type: application/json');
 	$o->status = 'success';
 	echo json_encode($o);
 
-	$email_to = "doomhammer996@gmail.com"; // Replace by your email address
+	$email_to = "info@cubesquad.org"; // Replace by your email address
 	$email = $_POST["email"];
 	$text = "Congratulations ! A new person wants to be alerted when your site will be hiring: $email";
 

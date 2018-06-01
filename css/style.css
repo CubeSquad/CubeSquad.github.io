@@ -98,7 +98,7 @@ table {
 #loading {
   width: 100vw;
   height: 100vh;
-  background: #20232D;
+  background: #000000;
   position: fixed;
   z-index: 999;
 }
@@ -117,7 +117,7 @@ table {
   text-transform: uppercase;
   font-size: 12px;
   font-weight: 400;
-  color: #4d515f;
+  color: #38fffb;
   letter-spacing: 1px;
   font-family: Montserrat, "Helvetica Neue", "Lucida Grande", Arial, Verdana, sans-serif;
   top: 90px;
@@ -129,7 +129,7 @@ table {
 }
 #loading #preloader span {
   position: absolute;
-  border: 4px solid #0fe0ba;
+  border: 4px solid #ffffff;
   border-radius: 100%;
 }
 #loading #preloader span:nth-child(1) {
